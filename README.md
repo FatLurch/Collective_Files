@@ -38,8 +38,13 @@ I was able to use the standard Windows "Setup USB Game Controllers" interface. T
 ### Build Notes
 I wound up adding a wire that goes from the body of the aluminum tube to the body of the Arduino USB connector to manage electrostatic discharge. Otherwise, the only way ESD can get from the grip to ground is through the wiring of the MCP23017
 
+I added a small M2 screw to one of the buttons on the underside of the grip so they felt more physically distinct. I was able to thread it straight into the button cap after making a very small hole
+
 ### Wiring
 I recommend adding a connector between the grip and the stick for quick disconnect. I wound up using what looks like a 4 pin servo connector made out of 0.1" pitch DuPont style headers from the BOM. The buttons on the MCP23017 are all setup so that one leg goes to an input and the other goes to ground. It looks like the Adafruit board is nicely setup for this.
+
+### buymeacoffee
+If you appreciate this project and would like to tip: [buymeacoffee.com/fat.lurch](buymeacoffee.com/fat.lurch)
 
 ![](1000007357.jpg)
 ![](1000007358.jpg)
