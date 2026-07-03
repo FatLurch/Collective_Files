@@ -15,9 +15,9 @@ Most parts are FDM 3D printed. For the trim hats, I wound up resin printing for 
 ### BOM 
 Non-affiliate links
 - 12mm push buttons: [https://a.co/d/09tn9fx9](https://a.co/d/09tn9fx9)
-- Tactile buttons in hat switches: [https://www.amazon.com/dp/B07VSNN9S2?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_10](https://www.amazon.com/dp/B07VSNN9S2?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_10)
-- Toggle switches: [https://www.amazon.com/dp/B07CJFVZ7M?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_24](https://www.amazon.com/dp/B07CJFVZ7M?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_24)
-- Potentiometer (Any "B10K" on amazon will likely work) [https://www.amazon.com/dp/B07QT1BTLJ?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_7](https://www.amazon.com/dp/B07QT1BTLJ?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_7)
+- Tactile buttons in hat switches: [https://a.co/d/0gzKXzKI](https://a.co/d/0gzKXzKI)
+- Toggle switches: [https://a.co/d/0j6KnOrc](https://a.co/d/0j6KnOrc)
+- Potentiometer (Any "B10K" on amazon will likely work) [https://a.co/d/03IGPmhE](https://a.co/d/03IGPmhE)
 - MCP23017 I/O expander - I wound up spinning my own board. I'd recommend using Adafruit's pre-built version: [https://www.adafruit.com/product/5346?gad_source=1&gad_campaignid=21079227318&gbraid=0AAAAADx9JvT0hwd9MZeEboB6OtWVK-04O&gclid=CjwKCAjwu53SBhAhEiwAJzSLNmEfZ82HP4vLyviFUn7yBKgNMheWr3lMW1ML75dkX3W3pOIZm_DKdRoCw9oQAvD_BwE](https://www.adafruit.com/product/5346?gad_source=1&gad_campaignid=21079227318&gbraid=0AAAAADx9JvT0hwd9MZeEboB6OtWVK-04O&gclid=CjwKCAjwu53SBhAhEiwAJzSLNmEfZ82HP4vLyviFUn7yBKgNMheWr3lMW1ML75dkX3W3pOIZm_DKdRoCw9oQAvD_BwE)
 - Main friction control: IIRC, this is a long 1/4-20 bolt and knob from the local hardware store. I wound up adding brass washers to slide against the aluminum mount and a rubber washer to give a bit more ease of adjustment
 - Aluminum Tube - This was designed around 1.25" diameter aluminum tube. I usded 0.125" thick wall for stiffness and heft
